@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reams-application-site/static/css/main.d4389c43.css",
-    "main.js": "/reams-application-site/static/js/main.2dcfcf5a.js",
+    "main.js": "/reams-application-site/static/js/main.db22e04f.js",
     "index.html": "/reams-application-site/index.html",
     "main.d4389c43.css.map": "/reams-application-site/static/css/main.d4389c43.css.map",
-    "main.2dcfcf5a.js.map": "/reams-application-site/static/js/main.2dcfcf5a.js.map"
+    "main.db22e04f.js.map": "/reams-application-site/static/js/main.db22e04f.js.map"
   },
   "entrypoints": [
     "static/css/main.d4389c43.css",
-    "static/js/main.2dcfcf5a.js"
+    "static/js/main.db22e04f.js"
   ]
 }
