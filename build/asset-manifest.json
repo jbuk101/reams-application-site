@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reams-application-site/static/css/main.d2876619.css",
+    "main.js": "/reams-application-site/static/js/main.8d306b18.js",
+    "index.html": "/reams-application-site/index.html",
+    "main.d2876619.css.map": "/reams-application-site/static/css/main.d2876619.css.map",
+    "main.8d306b18.js.map": "/reams-application-site/static/js/main.8d306b18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2876619.css",
+    "static/js/main.8d306b18.js"
+  ]
+}
