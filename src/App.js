@@ -27,10 +27,11 @@ function App() {
             <section>
               <h2 className="text-2xl text-teal-300 mb-2">🛠️ Core Technical Skills</h2>
               <ul className="list-disc list-inside text-gray-200 space-y-1">
-                <li><strong>Application & API Troubleshooting:</strong> Deep experience debugging REST APIs, JSON/XML payloads.</li>
-                <li><strong>SQL & Database Management:</strong> Skilled at querying databases, diagnosing data issues.</li>
-                <li><strong>SFTP/AS2 Management:</strong> Ensured robust file transfer integrations at Veratrak.</li>
-                <li><strong>Manual & Regression Testing:</strong> Extensive experience maintaining application quality and stability.</li>
+                <li><strong>Technical Troubleshooting:</strong> Proven experience identifying and resolving application issues effectively.</li>
+                <li><strong>SQL & Database:</strong> Experience with basic SQL queries and investigating data-related issues.</li>
+                <li><strong>SFTP/AS2 Management:</strong> Managed reliable file-transfer integrations at Veratrak.</li>
+                <li><strong>Manual & Regression Testing:</strong> Extensive experience ensuring software quality and reliability.</li>
+                <li><strong>API Debugging:</strong> Experience with basic API troubleshooting and payload analysis.</li>
               </ul>
             </section>
 
