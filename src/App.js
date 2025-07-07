@@ -7,12 +7,13 @@ function App() {
   return (
     <div className="bg-gray-900 min-h-screen text-white p-8 font-sans">
       <div className="max-w-4xl mx-auto bg-gray-800 rounded-xl p-10 shadow-xl">
-        <h1 className="text-4xl font-bold text-teal-400 mb-4 text-center">
-          Hello REAMS Team! 👋
-        </h1>
-        <p className="text-lg text-gray-300 text-center mb-6">
-          Here's why my skills perfectly match your Application Support Engineer role.
-        </p>
+       <h1 className="text-4xl font-bold text-teal-400 mb-4 text-center">
+        Hello! 👋
+      </h1>
+      <p className="text-lg text-gray-300 text-center mb-6">
+        Here’s a look at my technical skills and experience as an Application Support Engineer.
+      </p>
+
 
         <button
           onClick={() => setShowDetails(!showDetails)}
@@ -45,6 +46,7 @@ function App() {
                 <div>✅ PostgreSQL (Database management)</div>
                 <div>✅ VS Code & DevTools (Development & debugging)</div>
                 <div>✅ Slack (Team collaboration)</div>
+                <div>✅ Chatbase & Zapier (Chatbots & Automation)</div>
               </div>
             </section>
 
